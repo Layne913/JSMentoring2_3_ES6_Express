@@ -1,0 +1,12 @@
+NodeJS
+1.Intro
+  * high performance
+    single thread, event loope
+    single thread(drawback: single thread takes only one CPU)
+2.File System
+ 1) fake logs
+ 2) analyse
+ 3.Http
+ 1) Server
+ 2)Fake Client
+ 4.npm
